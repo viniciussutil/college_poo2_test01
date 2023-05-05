@@ -1,0 +1,14 @@
+INDEX VERSION 1.132+C:\workspace\ws-java-application\prova_01_poo\.metadata\.plugins\org.eclipse.jdt.core
+1479454196.index
+3475159075.index
+3406171383.index
+1263180775.index
+429356973.index
+1865797976.index
+4178919815.index
+1002231211.index
+4079849717.index
+2226075627.index
+2751541857.index
+1735513124.index
+2964199590.index
